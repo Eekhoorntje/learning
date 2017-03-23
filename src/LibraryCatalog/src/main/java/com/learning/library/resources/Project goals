@@ -26,3 +26,8 @@ Set up a date iteration loop to run through a few cycles
 Find some way to trigger checkouts
   report failures when books are checked out
   add reservations.
+  
+Add a user driven console for adding books, checking things out and reserving
+
+Add reports for users, books, overdue available.  Add filters for Genre and whatever else.
+
