@@ -2,3 +2,27 @@ Library Catalog – Create a book class with a title, page count, ISBN and wheth
  Manage a collection of various books and allow the user to check out books or return books. 
  For added complexity generate a report of those books overdue and any fees. 
  Also allow users to put books on reserve.
+ 
+ 
+ Next steps: 
+ 
+ Create a basic user class
+ 	Name
+ 	Address
+ 	Phone
+  	UID
+
+ Modify Book
+ 	Convert checked out from bool to a method which checks the current userid to see if it's populated
+ 	Add a checked date
+ 	add a return policy
+ 	
+Create a few users and add printmethods to them too
+
+Check a few books out to users
+
+Set up a date iteration loop to run through a few cycles
+
+Find some way to trigger checkouts
+  report failures when books are checked out
+  add reservations.
